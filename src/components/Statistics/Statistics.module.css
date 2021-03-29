@@ -1,0 +1,48 @@
+.statFlexContainer {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.statBlockContainer {
+  display: block;
+  width: 300px;
+}
+
+.secondHeader {
+  text-align: center;
+  color: #e6e6e6;
+  font-size: 26px;
+  margin-top: 0px;
+}
+
+.statList {
+  list-style: none;
+  padding: 0px;
+  text-align: center;
+  margin: 0px;
+}
+
+.statList li {
+  font-size: 20px;
+  color: #e6e6e6;
+}
+
+.positivePercentNumb {
+  margin: 0px;
+  padding-left: 20px;
+  font-size: 90px;
+  color: rgb(0, 201, 0);
+}
+
+.positivePercent {
+  font-size: 20px;
+  color: rgb(0, 201, 0);
+}
+
+.positivePercentLabel {
+  padding-left: 20px;
+  font-size: 16px;
+  text-transform: lowercase;
+  margin: 0px;
+  color: rgb(0, 201, 0);
+}
